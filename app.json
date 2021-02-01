@@ -19,13 +19,19 @@
         "pagePath": "pages/index/index",
         "iconPath": "images/wechat.png",
         "selectedIconPath": "images/wechatHL.png",
-        "text": "组件"
+        "text": "勿忘"
       },
       {
         "pagePath": "pages/logs/logs",
         "iconPath": "images/wechat.png",
         "selectedIconPath": "images/wechatHL.png",
-        "text": "接口"
+        "text": "当下"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "iconPath": "images/wechat.png",
+        "selectedIconPath": "images/wechatHL.png",
+        "text": "百宝箱"
       },
       {
         "pagePath": "pages/more/more",
