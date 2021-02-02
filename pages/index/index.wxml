@@ -1,10 +1,9 @@
 <!--index.wxml-->
-<view class="container">
-  <view>
-    <image style="background-color: #eeeeee;" mode="scaleToFill" src="https://res.wx.qq.com/wxdoc/dist/assets/img/0.4cb08bb4.jpg"></image>
-  </view>
-  <view>
-    <button>登陆</button>
-    <button>注册</button>
+<view class="all" style="background-image: url('https://images.aosun.cloud/blue/loginBackgroundImg.jpg')">
+  <view class="bottom">
+    <input class="section" placeholder="请输入帐号"/>
+    <input class="section" placeholder="请输入密码" password="true"/>
+    <button style="width:45%;margin:10rpx;float:left" type="primary">登陆</button>
+    <button style="width:45%;margin:10rpx;float:right" type="primary">注册</button>
   </view>
 </view>
